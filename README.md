@@ -1,4 +1,4 @@
-# KILANGI-All
+# KILANGI
 internship assessment
 
 live link 
